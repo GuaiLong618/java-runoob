@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8eb87c92-302f-42ba-bca3-eddec6b1daa0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8/Fuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8/day8_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTimer/TimePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTimer/TimerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day3/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day3/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day3/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day3/EmployeeTest.java" afterDir="false" />
@@ -17,70 +24,104 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/java_runoob$Boss.ic" NAME="Boss Coverage Results" MODIFIED="1532951382280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day3.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1145625386">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="39" />
+          <entry key="project.closed" value="41" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="12" />
+          <entry key="project.open.time.6" value="14" />
           <entry key="project.open.time.7" value="14" />
           <entry key="project.open.time.8" value="8" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="40" />
+          <entry key="project.opened" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1924" />
+          <entry key="java" value="2629" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1924" />
+          <entry key="JAVA" value="2629" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1381027779">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.7" value="6" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1465" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1465" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="java" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="Git file" value="1" />
+          <entry key="JAVA" value="12" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day3/Employee.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/myTimer/TimerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-482">
-              <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+            <state relative-caret-position="187">
+              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
               <folding>
-                <element signature="e#731#732#0" expanded="true" />
-                <element signature="e#759#760#0" expanded="true" />
-                <element signature="e#828#829#0" expanded="true" />
-                <element signature="e#866#867#0" expanded="true" />
-                <element signature="e#926#927#0" expanded="true" />
-                <element signature="e#960#961#0" expanded="true" />
-                <element signature="e#1030#1031#0" expanded="true" />
-                <element signature="e#1060#1061#0" expanded="true" />
-                <element signature="e#1660#1661#0" expanded="true" />
-                <element signature="e#1689#1690#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/day3/EmployeeTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/myTimer/TimePrinter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+            <state relative-caret-position="245">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,6 +134,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -104,8 +146,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/day3.java" />
-        <option value="$PROJECT_DIR$/src/day3/Employee.java" />
+        <option value="$PROJECT_DIR$/src/day3/boss.java" />
         <option value="$PROJECT_DIR$/src/day3/EmployeeTest.java" />
+        <option value="$PROJECT_DIR$/src/day3/Employee.java" />
+        <option value="$PROJECT_DIR$/src/day3/Boss.java" />
+        <option value="$PROJECT_DIR$/src/day8/Animal.java" />
+        <option value="$PROJECT_DIR$/src/day8/day8_test.java" />
+        <option value="$PROJECT_DIR$/src/day8/fuck.java" />
+        <option value="$PROJECT_DIR$/src/day8/Fuck.java" />
+        <option value="$PROJECT_DIR$/src/day9/test.java" />
+        <option value="$PROJECT_DIR$/src/day8/Cat.java" />
+        <option value="$PROJECT_DIR$/src/myTimer/TimerTest.java" />
+        <option value="$PROJECT_DIR$/src/myTimer/TimePrinter.java" />
       </list>
     </option>
   </component>
@@ -116,8 +168,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="920" />
-    <option name="width" value="1005" />
+    <option name="x" value="886" />
+    <option name="width" value="1040" />
     <option name="height" value="1039" />
   </component>
   <component name="ProjectView">
@@ -129,7 +181,9 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532869586583" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533645123319" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="Z:/Git@OSC/mysite" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -144,7 +198,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EmployeeTest">
+  <component name="RunManager" selected="Application.TimerTest">
+    <configuration name="Boss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3.Boss" />
+      <module name="java-runoob" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day3.Employee" />
       <module name="java-runoob" />
@@ -181,13 +248,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TimerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myTimer.TimerTest" />
+      <module name="java-runoob" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myTimer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.EmployeeTest" />
       <item itemvalue="Application.Employee" />
+      <item itemvalue="Application.Boss" />
+      <item itemvalue="Application.TimerTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TimerTest" />
+        <item itemvalue="Application.Boss" />
         <item itemvalue="Application.EmployeeTest" />
         <item itemvalue="Application.Employee" />
         <item itemvalue="Application.Main" />
@@ -244,16 +328,36 @@
       <workItem from="1532834777327" duration="1047000" />
       <workItem from="1532854476181" duration="3370000" />
       <workItem from="1532910931271" duration="2493000" />
+      <workItem from="1532917265870" duration="1618000" />
+      <workItem from="1532949154145" duration="6309000" />
+      <workItem from="1533093172877" duration="692000" />
+      <workItem from="1533122494887" duration="1478000" />
+      <workItem from="1533198039679" duration="23000" />
+      <workItem from="1533260304839" duration="543000" />
+      <workItem from="1533261062256" duration="798000" />
+      <workItem from="1533343636793" duration="486000" />
+      <workItem from="1533345742882" duration="180000" />
+      <workItem from="1533438217511" duration="1156000" />
+      <workItem from="1533439435453" duration="273000" />
+      <workItem from="1533460934182" duration="816000" />
+      <workItem from="1533470499274" duration="991000" />
+      <workItem from="1533471515684" duration="154000" />
+      <workItem from="1533473406420" duration="877000" />
+      <workItem from="1533606501078" duration="226000" />
+      <workItem from="1533631002455" duration="100000" />
+      <workItem from="1533642810584" duration="1154000" />
+      <workItem from="1533644016486" duration="1057000" />
+      <workItem from="1533645224608" duration="553000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23090000" />
+    <option name="totallyTimeSpent" value="42574000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="736" y="0" width="804" height="831" extended-state="0" />
+    <frame x="709" y="0" width="832" height="831" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26214835" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.23901808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -261,7 +365,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Key Promoter X" order="7" weight="0.32992327" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32808024" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32424676" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
@@ -270,20 +374,21 @@
       <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.3056266" side_tool="true" weight="0.3248227" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32998565" />
       <window_info anchor="bottom" id="Stack Trace To UML" order="10" />
       <window_info anchor="bottom" id="Inspection Results" order="11" sideWeight="0.6943734" weight="0.32765958" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.4555874" />
+      <window_info anchor="right" id="Coverage" order="0" sideWeight="0.50071734" side_tool="true" weight="0.28351957" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Debug" order="9" weight="0.32573727" />
-      <window_info anchor="right" id="Run" order="10" weight="0.28490567" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+      <window_info anchor="right" id="Run" order="10" sideWeight="0.49928263" weight="0.28351957" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,29 +407,100 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/SE_SDK/lib/src.zip!/java.base/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="96" column="31" selection-start-line="96" selection-start-column="31" selection-end-line="96" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/day3/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-482">
-          <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
-          <folding>
-            <element signature="e#731#732#0" expanded="true" />
-            <element signature="e#759#760#0" expanded="true" />
-            <element signature="e#828#829#0" expanded="true" />
-            <element signature="e#866#867#0" expanded="true" />
-            <element signature="e#926#927#0" expanded="true" />
-            <element signature="e#960#961#0" expanded="true" />
-            <element signature="e#1030#1031#0" expanded="true" />
-            <element signature="e#1060#1061#0" expanded="true" />
-            <element signature="e#1660#1661#0" expanded="true" />
-            <element signature="e#1689#1690#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="374">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day3/EmployeeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        <state relative-caret-position="816">
+          <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt://D:/software/JetBrains/IntelliJ IDEA/SE_SDK!/jdk.hotspot.agent/sun/jvm/hotspot/ui/ObjectListPanel.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/SE_SDK/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="559" selection-start-line="559" selection-end-line="559" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day3/Boss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day8/day8_test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day8/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day9/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day8/Fuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day8/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myTimer/TimePrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myTimer/TimerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -334,6 +510,17 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>

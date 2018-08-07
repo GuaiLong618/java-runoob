@@ -49,6 +49,10 @@ public class Employee {
         salary = empSalary;
     }
 
+    double getSalary() {
+        return this.salary;
+    }
+
     // 没有定义private,public,可以被包中其他方法访问
     void empSetInfo(int age) {
         this.age = age;

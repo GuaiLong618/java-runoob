@@ -46,6 +46,8 @@ public class EmployeeTest {
         empfour.empSetInfo(32);
         empfour.empSetInfo("RUNOOB4", 35, "架构师", 17000.5);
         empfour.printEmployee();
+        double s = empfour.getSalary();
+        System.out.println(s);
 
         System.out.println("----------");
         int n = Employee.getID();
@@ -123,6 +125,12 @@ public class EmployeeTest {
                 System.out.println();
             }
         } // if (lin%2 == 0)
+
+        int[] arr = new int[10];
+        int[] arr2 = new int[10];
+
+        System.out.println("addr:" + arr);
+        System.out.println("addr2:" + arr2);
     }
 }
 
