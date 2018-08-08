@@ -36,20 +36,25 @@ public class Hotel {
     public static final int ROOM_NUMBER = 10;
 //    private int ro[][] = new int[2][3];
     private Room[][] rooms = new Room[FLOOR][ROOM_NUMBER];
-    private String[] rmType = {"标准间", "双人间", "家庭房"};
+    private String[] rmType = {"标准间", "双人间", "家庭房", "情侣房", "大床房"};
 
     public Hotel() {
 
-        for (int i = 0; i < FLOOR; i++)
+        for (int i = 0; i < FLOOR; i++) {
             for (int j = 0; j < ROOM_NUMBER; j++) {
                 Room r = new Room();
-                Random rand = new Random();  //无参
+                Random rand = new Random(90089091);  //无参
                 this.rooms[i][j] = r;
                 this.rooms[i][j].status = false;
                 this.rooms[i][j].type = rand.nextInt(3);
+//                Random rr = new Random(90089090);
+//                int rrr = rand.nextInt(3);
+//                System.out.println(rrr);
                 int kk = (i * 100 + 1) + j + 1;
                 this.rooms[i][j].no = kk;
             }
+        }
+//        System.out.println("---");
     }
 
     /**
