@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8eb87c92-302f-42ba-bca3-eddec6b1daa0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day9/Hotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9/RoomSzieEnum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day9/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day9/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day9/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day9/Hotel.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,25 +58,25 @@
     <session id="-1381027779">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.5" value="3" />
-          <entry key="project.open.time.6" value="9" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="10" />
           <entry key="project.open.time.7" value="7" />
           <entry key="project.open.time.8" value="4" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="29" />
+          <entry key="project.opened" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3471" />
+          <entry key="java" value="3866" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3471" />
+          <entry key="JAVA" value="3866" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -106,8 +103,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/day9/Hotel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            <state relative-caret-position="363">
+              <caret line="105" column="39" lean-forward="true" selection-start-line="105" selection-start-column="39" selection-end-line="105" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -169,7 +166,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="845" />
+    <option name="x" value="801" />
     <option name="width" value="1130" />
     <option name="height" value="1040" />
   </component>
@@ -182,7 +179,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533693057855" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533696468126" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="Z:/Git@OSC/mysite" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -361,16 +358,17 @@
       <workItem from="1533689412831" duration="1092000" />
       <workItem from="1533690628659" duration="1011000" />
       <workItem from="1533691843900" duration="1095000" />
-      <workItem from="1533692962598" duration="93000" />
+      <workItem from="1533692962598" duration="1036000" />
+      <workItem from="1533694273152" duration="1040000" />
+      <workItem from="1533695486011" duration="981000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51028000" />
+    <option name="totallyTimeSpent" value="53992000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="0" width="904" height="832" extended-state="0" />
-    <editor active="true" />
+    <frame x="641" y="0" width="904" height="832" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49499285" weight="0.25768322" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -533,8 +531,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day9/Hotel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        <state relative-caret-position="363">
+          <caret line="105" column="39" lean-forward="true" selection-start-line="105" selection-start-column="39" selection-end-line="105" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
