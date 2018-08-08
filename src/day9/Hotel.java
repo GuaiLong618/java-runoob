@@ -1,7 +1,7 @@
 package day9;
 
 
-import javax.swing.*;
+import javax.swing.JOptionPane;
 import java.util.Random;
 
 /**
@@ -14,6 +14,7 @@ public class Hotel {
     public static final int ROOM_NUMBER = 10;
 //    private int ro[][] = new int[2][3];
     private Room[][] rooms = new Room[FLOOR][ROOM_NUMBER];
+    private String[] rmType = {"标准间", "双人间", "家庭房"};
 
     public Hotel() {
 
@@ -66,8 +67,8 @@ public class Hotel {
         System.out.println(number);
 
         int kk = Integer.parseInt(number);
-        int floorNo = kk / 100;
-        int roomNo = kk % 100;
+        int floorNo = kk / 100 - 1;
+        int roomNo = kk % 100 - 1;
         this.rooms[floorNo][roomNo].status = false;
     }
 
@@ -79,12 +80,13 @@ public class Hotel {
      * [*][ ][*][ ]...
      */
     public void printRoomsList() {
+
         for (int i = 0; i < FLOOR; i++) {
             for (int j = 0; j < ROOM_NUMBER; j++) {
                 int kk = ((i+1)*100) + j + 1;
                 System.out.print(kk + ":");
                 int type = this.rooms[i][j].type;
-                System.out.print(type);
+                System.out.print(this.rmType[type]);
                 if (this.rooms[i][j].status) {
                     System.out.print("[*] ");
                 } else {
@@ -97,19 +99,27 @@ public class Hotel {
 
     public static void main(String[] args) {
         Hotel hotel = new Hotel();
+        String[] str = {"预订?","退订?", "退出系统"};
+
         while (true) {
-            int jude = 0;
-            jude = JOptionPane.showConfirmDialog(null,"约定?");
-            System.out.println(jude);
-            if (0 == jude) {
+            int num = JOptionPane.showInternalOptionDialog(null,
+                    "无人前台",
+                    "天上人间酒店系统",
+                    JOptionPane.YES_NO_OPTION,
+                    JOptionPane.INFORMATION_MESSAGE,
+                    null,
+                    str, //Object[] options,
+                    "预订?");
+//        System.out.println(num);
+            if (0 == num) {
                 hotel.makeRoomReservation();
                 hotel.printRoomsList();
-            } else if (1 == jude) {
-                System.exit(0);
+            } else if (1 == num) {
+                hotel.UnsubscribeRoom();
+                hotel.printRoomsList();
             } else {
                 System.exit(0);
             }
-
         }
     }
 }
