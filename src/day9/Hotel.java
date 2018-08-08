@@ -5,6 +5,28 @@ import javax.swing.JOptionPane;
 import java.util.Random;
 
 /**
+ * 使用面向对象的方式完成一个酒店管理系统
+ * 1:酒店类
+ * 	酒店类中有若干个房间
+ * 	五层 每层有十个房间(使用二维数组的方式实现)
+ * 	Room[][] r = new Room[5][10];//null
+ *
+ * 	打印酒店列表的方法
+ * 	订房的方法
+ * 	退房的方法
+ *
+ * 2:房间类
+ * 	房间编号
+ * 	房间类型
+ * 	房间状态(是否入住)
+ *
+ * 3:测试类
+ * 	输入房间号订房
+ * 	输入房间号退房
+ * 	打印酒店房间展示
+ */
+
+/**
  * 酒店
  *
  * @author hell
@@ -18,17 +40,16 @@ public class Hotel {
 
     public Hotel() {
 
-        for (int i = 0; i < FLOOR; i++) {
+        for (int i = 0; i < FLOOR; i++)
             for (int j = 0; j < ROOM_NUMBER; j++) {
                 Room r = new Room();
-                Random rand = new Random(2);
+                Random rand = new Random();  //无参
                 this.rooms[i][j] = r;
                 this.rooms[i][j].status = false;
                 this.rooms[i][j].type = rand.nextInt(3);
-                int kk = (i*100 + 1) + j + 1;
+                int kk = (i * 100 + 1) + j + 1;
                 this.rooms[i][j].no = kk;
             }
-        }
     }
 
     /**
@@ -110,6 +131,7 @@ public class Hotel {
                     null,
                     str, //Object[] options,
                     "预订?");
+            hotel.printRoomsList();
 //        System.out.println(num);
             if (0 == num) {
                 hotel.makeRoomReservation();

@@ -58,26 +58,26 @@
     <session id="-1381027779">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.5" value="5" />
+          <entry key="project.open.time.5" value="6" />
           <entry key="project.open.time.6" value="11" />
           <entry key="project.open.time.7" value="8" />
-          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.8" value="5" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="37" />
+          <entry key="project.opened" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4287" />
+          <entry key="java" value="4320" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4287" />
+          <entry key="JAVA" value="4320" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -104,8 +104,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/day9/Hotel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="94" column="13" lean-forward="true" selection-start-line="94" selection-start-column="13" selection-end-line="94" selection-end-column="13" />
+            <state relative-caret-position="2151">
+              <caret line="145" column="5" lean-forward="true" selection-start-line="145" selection-start-column="5" selection-end-line="145" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -166,9 +166,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="890" />
-    <option name="width" value="1040" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1033" />
+    <option name="width" value="897" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
@@ -180,7 +180,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533718451952" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533729398546" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="Z:/Git@OSC/mysite" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -368,14 +368,16 @@
       <workItem from="1533717405474" duration="851000" />
       <workItem from="1533718633618" duration="755000" />
       <workItem from="1533719843489" duration="19000" />
+      <workItem from="1533720611211" duration="34000" />
+      <workItem from="1533728948514" duration="480000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58388000" />
+    <option name="totallyTimeSpent" value="58902000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="712" y="0" width="832" height="832" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49499285" weight="0.25768322" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -397,7 +399,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32998565" />
       <window_info anchor="bottom" id="Stack Trace To UML" order="10" />
       <window_info anchor="bottom" id="Inspection Results" order="11" sideWeight="0.6943734" weight="0.32765958" />
-      <window_info active="true" anchor="bottom" id="Debug" order="12" visible="true" weight="0.4549356" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.4549356" />
       <window_info anchor="right" id="Coverage" order="0" sideWeight="0.50071734" side_tool="true" weight="0.28351957" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
@@ -408,7 +410,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info anchor="right" id="Maven Projects" order="9" />
-      <window_info anchor="right" id="Run" order="10" sideWeight="0.49928263" weight="0.28351957" />
+      <window_info anchor="right" id="Run" order="10" sideWeight="0.49928263" weight="0.44235924" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -538,8 +540,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day9/Hotel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="94" column="13" lean-forward="true" selection-start-line="94" selection-start-column="13" selection-end-line="94" selection-end-column="13" />
+        <state relative-caret-position="2151">
+          <caret line="145" column="5" lean-forward="true" selection-start-line="145" selection-start-column="5" selection-end-line="145" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
