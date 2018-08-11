@@ -20,18 +20,16 @@ public class Day13Test3 {
         l.add("bad");
         l.add("cat");
 
-        for (int i = 0; i<l.size() ; i++) {
+        for (String str : l) {
 
-            String str = l.get(i);
             char frist = str.charAt(0);
             boolean b = map.containsKey(frist);
             if (b) {
                 String value = map.get(frist);
-                value = value + l.get(i);//
+                value = value + str;//
                 map.put(frist, value);
             } else {
-                String value = l.get(i);
-                map.put(frist, value);
+                map.put(frist, str);
             }
         }
 

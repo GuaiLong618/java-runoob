@@ -8,10 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8eb87c92-302f-42ba-bca3-eddec6b1daa0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day12/Day12Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12/Day12Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12/Day13Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/Day13Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/Day13Test3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,26 +63,26 @@
     <session id="-1381027779">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="19" />
+          <entry key="project.closed" value="20" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="25" />
-          <entry key="project.open.time.6" value="23" />
+          <entry key="project.open.time.6" value="24" />
           <entry key="project.open.time.7" value="15" />
           <entry key="project.open.time.8" value="5" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="77" />
+          <entry key="project.opened" value="78" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="8490" />
+          <entry key="java" value="8493" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8490" />
+          <entry key="JAVA" value="8493" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -137,7 +134,7 @@
         <entry file="file://$PROJECT_DIR$/src/day12/Day13Test3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="309">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -475,11 +472,12 @@
       <workItem from="1533973865583" duration="941000" />
       <workItem from="1533975082564" duration="715000" />
       <workItem from="1533976296964" duration="259000" />
+      <workItem from="1533976676756" duration="459000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91177000" />
+    <option name="totallyTimeSpent" value="91636000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="764" y="0" width="776" height="832" extended-state="0" />
@@ -771,7 +769,7 @@
     <entry file="file://$PROJECT_DIR$/src/day12/Day13Test3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
         </state>
       </provider>
     </entry>
