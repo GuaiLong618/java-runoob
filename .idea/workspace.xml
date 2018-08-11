@@ -8,9 +8,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8eb87c92-302f-42ba-bca3-eddec6b1daa0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day1/Day1Test4bak2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/Day1Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11/Day11Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11/Day11Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1/Day1Test4Bak1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/Day1Test4Bak1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,40 +64,40 @@
     <session id="-1381027779">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.5" value="18" />
-          <entry key="project.open.time.6" value="18" />
-          <entry key="project.open.time.7" value="10" />
+          <entry key="project.open.time.5" value="20" />
+          <entry key="project.open.time.6" value="19" />
+          <entry key="project.open.time.7" value="13" />
           <entry key="project.open.time.8" value="5" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="60" />
+          <entry key="project.opened" value="66" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6681" />
+          <entry key="java" value="7466" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6681" />
+          <entry key="JAVA" value="7466" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="37" />
+          <entry key="java" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="Git file" value="1" />
-          <entry key="JAVA" value="37" />
+          <entry key="JAVA" value="42" />
         </counts>
       </usages-collector>
     </session>
@@ -106,19 +108,44 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day1/Day1Test4.java">
+        <entry file="file://$PROJECT_DIR$/src/day11/Day11Test2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+            <state relative-caret-position="833">
+              <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/day1/Day1Test4Bak1.java">
+        <entry file="file://$PROJECT_DIR$/src/day11/Day11Test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="194" column="44" selection-start-line="194" selection-start-column="44" selection-end-line="194" selection-end-column="44" />
+            <state relative-caret-position="462">
+              <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day11/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+              <folding>
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+                <element signature="e#483#484#0" expanded="true" />
+                <element signature="e#513#514#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -173,6 +200,10 @@
         <option value="$PROJECT_DIR$/src/day1/Day1Test4.java" />
         <option value="$PROJECT_DIR$/src/day1/Day1Test4bak2.java" />
         <option value="$PROJECT_DIR$/src/day1/Day1Test4Bak1.java" />
+        <option value="$PROJECT_DIR$/src/day1/Day1Test5.java" />
+        <option value="$PROJECT_DIR$/src/day11/Student.java" />
+        <option value="$PROJECT_DIR$/src/day11/Day11Test2.java" />
+        <option value="$PROJECT_DIR$/src/day11/Day11Test1.java" />
       </list>
     </option>
   </component>
@@ -183,8 +214,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="910" />
-    <option name="width" value="1020" />
+    <option name="x" value="897" />
+    <option name="y" value="1" />
+    <option name="width" value="1029" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
@@ -196,7 +228,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533871965940" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533948384278" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="Z:/Git@OSC/mysite" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -213,7 +245,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Day1Test4Bak1">
+  <component name="RunManager" selected="Application.Day11Test1">
+    <configuration name="Day11Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day11.Day11Test1" />
+      <module name="java-runoob" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Day1Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day1.Day1Test3" />
       <module name="java-runoob" />
@@ -253,21 +298,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hotel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day9.Hotel" />
-      <module name="java-runoob" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestDday1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.TestDday1" />
+    <configuration name="Day1Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1.Day1Test5" />
       <module name="java-runoob" />
       <extension name="coverage">
         <pattern>
@@ -280,19 +312,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Hotel" />
-      <item itemvalue="Application.TestDday1" />
       <item itemvalue="Application.Day1Test3" />
       <item itemvalue="Application.Day1Test4" />
       <item itemvalue="Application.Day1Test4Bak1" />
+      <item itemvalue="Application.Day1Test5" />
+      <item itemvalue="Application.Day11Test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day11Test1" />
+        <item itemvalue="Application.Day1Test5" />
         <item itemvalue="Application.Day1Test4Bak1" />
         <item itemvalue="Application.Day1Test4" />
         <item itemvalue="Application.Day1Test3" />
-        <item itemvalue="Application.TestDday1" />
-        <item itemvalue="Application.Hotel" />
       </list>
     </recent_temporary>
   </component>
@@ -406,18 +438,23 @@
       <workItem from="1533862405508" duration="852000" />
       <workItem from="1533868845806" duration="74000" />
       <workItem from="1533870806756" duration="1144000" />
-      <workItem from="1533881316403" duration="564000" />
+      <workItem from="1533881316403" duration="1079000" />
+      <workItem from="1533905363722" duration="1034000" />
+      <workItem from="1533906634673" duration="927000" />
+      <workItem from="1533907843825" duration="1153000" />
+      <workItem from="1533909051905" duration="678000" />
+      <workItem from="1533945905629" duration="1167000" />
+      <workItem from="1533947212675" duration="1173000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75960000" />
+    <option name="totallyTimeSpent" value="82607000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="728" y="0" width="816" height="832" extended-state="0" />
-    <editor active="true" />
+    <frame x="718" y="1" width="823" height="832" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49499285" weight="0.23516949" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49499285" weight="0.23978494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -437,7 +474,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32998565" />
       <window_info anchor="bottom" id="Stack Trace To UML" order="10" />
       <window_info anchor="bottom" id="Inspection Results" order="11" sideWeight="0.6943734" weight="0.32765958" />
-      <window_info active="true" anchor="bottom" id="Debug" order="12" visible="true" weight="0.45064378" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.45064378" />
       <window_info anchor="right" id="Coverage" order="0" sideWeight="0.50071734" side_tool="true" weight="0.28351957" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
@@ -626,6 +663,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/Day1Test5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/Day1Test4Bak1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="190" column="17" selection-start-line="190" selection-start-column="17" selection-end-line="190" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/day1/Day1Test4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -633,10 +684,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day1/Day1Test4Bak1.java">
+    <entry file="file://$PROJECT_DIR$/src/day11/Day11Test2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="194" column="44" selection-start-line="194" selection-start-column="44" selection-end-line="194" selection-end-column="44" />
+        <state relative-caret-position="833">
+          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day11/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day11/Day11Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
