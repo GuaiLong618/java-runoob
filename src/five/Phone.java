@@ -19,7 +19,5 @@ public abstract class Phone implements Bluetooth {
         this.name = name;
     }
 
-    void playMusic(Song song) {
-
-    }
+    abstract void playMusic(Song song);  // 抽象方法
 }

@@ -22,6 +22,6 @@ public class IPhone extends Phone {
         System.out.print("手机正在播放");
         System.out.print(song.getSinger());
         System.out.print("唱的");
-        System.out.print(song.getName());
+        System.out.println(song.getName());
     }
 }
